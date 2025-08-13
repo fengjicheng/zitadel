@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Thank you for your interest about how to contribute! As you might know there is more than code to contribute. You can find all information needed to start contributing here.
+Thanks you for your interest about how to contribute! As you might know there is more than code to contribute. You can find all information needed to start contributing here.
 
 Please give us and our community the chance to get rid of security vulnerabilities by responsibly disclose this kind of issues by contacting [security@zitadel.com](mailto:security@zitadel.com).
 
